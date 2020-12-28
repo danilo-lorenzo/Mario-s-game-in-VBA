@@ -1,3 +1,4 @@
+' All comments are written in Portuguese, Please read the Readme file to understand better what each line is doing 
 ' Módulo teórico - Curso VBA - Jogo do Mário
 ' Adicionando sons ao Jogo
 ' https://www.linkedin.com/in/dltc/
